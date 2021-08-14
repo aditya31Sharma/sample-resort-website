@@ -237,7 +237,7 @@ header#hero{
   top: calc(50vh - 3.5rem);
 }
 .hamburger-bottom-curve-color{
-  bottom: calc(50vh - 4.45rem);
+  top: calc(50vh + 2.5rem);
   transform:rotate(90deg);
 }
 .hamburger-top-curve-color img,
@@ -614,7 +614,7 @@ footer#footer{
     top: calc(50vh - 3.45rem);
   }
   .hamburger-bottom-curve-color {
-    bottom: calc(50vh - 3.45rem);
+    top: calc(50vh + 1.45rem);
     transform: rotate(90deg);
   }
 
